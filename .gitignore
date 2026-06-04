@@ -1,0 +1,9 @@
+*-bak
+*.bak 
+*.kicad_prl 
+_autosave*
+*.bck 
+*.dcm 
+.DS_Store 
+*.tmp
+.history
